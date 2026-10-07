@@ -1,5 +1,6 @@
 import java.util.List;
 
+
 public class GraphSearchResult {
     private final boolean found;
     private final List<Integer> visitedOrder;
